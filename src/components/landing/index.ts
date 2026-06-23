@@ -1,0 +1,6 @@
+export { Navbar } from "./Navbar"
+export { Hero } from "./Hero"
+export { FeaturesGrid } from "./FeaturesGrid"
+export { HowItWorks } from "./HowItWorks"
+export { Capabilities } from "./Capabilities"
+export { Footer } from "./Footer"
