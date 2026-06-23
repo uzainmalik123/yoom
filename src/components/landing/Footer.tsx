@@ -66,7 +66,7 @@ export function Footer() {
 
           <div className="flex items-center gap-5">
             <a
-              href="https://github.com"
+              href="https://github.com/uzainmalik123/jsm-zoom-clone"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"
